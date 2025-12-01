@@ -1,8 +1,9 @@
 
 # Mooni Candles – E-Commerce Platform
 
-## Class Diagram
+Mooni Candles is a modern candle-shop platform where users can buy handcrafted candles, design personalized scents, and interact with an AI-powered shopping assistant. This project combines e-commerce, generative AI, and smart recommendations to create a fully customizable candle-buying experience.
 
+## Class Diagram
 
 * A class diagram is a structural diagram in Unified Modeling Language (UML) that shows the static structure of a system by depicting classes, their attributes, methods, and relationships.
 
