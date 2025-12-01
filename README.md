@@ -114,3 +114,10 @@ An activity diagram is a behavioral diagram in Unified Modeling Language (UML) t
 
 ![alt text](image-1.png)
 
+## Browse products → Add to cart → Checkout → Payment → Order confirmation
+
+![alt text](image.png)
+
+## Design customization → Preview → Add to cart → Purchase
+
+![alt text](image-2.png)
