@@ -110,6 +110,8 @@ An activity diagram is a behavioral diagram in Unified Modeling Language (UML) t
 
 * Indicates how the process transitions from one activity to another, the conditions under which decisions are made, and whether tasks happen sequentially or concurrently.
 
-#  ACTIVITY DIAGRAM - Account creation → Verification → Login process
+## ACTIVITY DIAGRAM
+
+## Account creation → Verification → Login process
 
 ![alt text](image.png)
