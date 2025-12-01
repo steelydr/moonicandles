@@ -81,3 +81,31 @@ PAYMENT (paymentid, orderid, payment_status, payment_method, currency, payment_m
 Stores customer feedback on products and orders with ratings and text comments.
 
 REVIEW (reviewid, userid, productid, orderid, rating, title, body)
+
+## Activity Diagram
+
+An activity diagram is a behavioral diagram in Unified Modeling Language (UML) that illustrates the dynamic flow of activities, decisions, and actions within a system or process.
+
+* Activity diagrams visualize the workflow or process logic before implementation begins.
+
+* Activity diagrams consist of actions (rounded rectangles), control flows (arrows), decisions (diamonds), forks/joins (parallel bars), and start/end nodes (solid and hollow circles).
+
+* When applied to system design, activity diagrams represent the sequence of operations, decisions, parallel tasks, and transitions that occur during a specific workflow.
+
+* Start Node: Indicates where the process begins, represented by a solid black circle.
+
+* End Node: Represents the termination of the process, drawn as a solid circle inside a hollow circle.
+
+* Actions: Individual steps or tasks performed during the process, shown as rounded rectangles.
+
+* Control Flows: Arrows that connect actions, showing how the process moves from one activity to the next.
+
+* Decision Nodes: Diamonds used for branching the workflow based on conditions (e.g., “Is payment successful?”).
+
+* Merge Nodes: Diamonds that bring multiple flows back into a single path after branching.
+
+* Fork Nodes: Thick horizontal or vertical bars representing the splitting of a process into parallel activities.
+
+* Join Nodes: The opposite of a fork—used to synchronize parallel actions before the workflow continues.
+
+* Indicates how the process transitions from one activity to another, the conditions under which decisions are made, and whether tasks happen sequentially or concurrently.
