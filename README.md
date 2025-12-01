@@ -109,3 +109,5 @@ An activity diagram is a behavioral diagram in Unified Modeling Language (UML) t
 * Join Nodes: The opposite of a fork—used to synchronize parallel actions before the workflow continues.
 
 * Indicates how the process transitions from one activity to another, the conditions under which decisions are made, and whether tasks happen sequentially or concurrently.
+
+![alt text](image.png)
