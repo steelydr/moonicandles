@@ -40,6 +40,8 @@ Contains shipping and billing address information linked to users through userid
 
 ADDRESS (addressid, userid, label, line1, line2, city, state, country, postal_code)
 
+![alt text](USER-ADDRESS.png)
+
 ### PRODUCT Table
 
 Maintains catalog of candle products with basic attributes like name, image, type, and wax characteristics.
