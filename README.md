@@ -26,6 +26,28 @@ Mooni Candles is a modern candle-shop platform where users can buy handcrafted c
 
 Mooni Candles E-Commerce Platform Class Diagram Analysis
 
+## ER Diagram
+
+* An ER (Entity–Relationship) diagram is a conceptual data modeling diagram that visually represents the entities, their attributes, and the relationships between them within a database system.
+
+* ER diagrams illustrate the logical structure of data before database implementation begins.
+
+* ER diagrams consist of entities (rectangles), attributes (ovals), primary keys, foreign keys, and relationships (diamonds or labeled connectors) that show how data elements interact.
+
+* When applied to database design, ER diagrams represent tables as entities, columns as attributes, and relationships as cardinality connections between entities.
+
+* Primary Keys (PK): Unique identifiers for each entity, often underlined or explicitly marked as “PK” in ER notation.
+
+* Foreign Keys (FK): Attributes that reference primary keys of other entities, used to link tables and enforce referential integrity.
+
+* Attributes: Properties or data fields belonging to an entity, such as name, email, or price, shown as ovals or listed inside the entity box.
+
+* Relationships: Lines or diamonds connecting entities to indicate associations such as one-to-one, one-to-many, or many-to-many.
+
+* Cardinality: Defines the numerical relationship between entities (e.g., one customer places many orders), represented using symbols like 1, N, or crow’s foot notation.
+
+* Indicates how data entities interact, how records are linked, and how constraints like primary keys and foreign keys govern the database structure.
+
 ## Core Entities
 
 ### USER Table
