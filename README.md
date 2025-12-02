@@ -90,6 +90,8 @@ Stores customer feedback on products and orders with ratings and text comments.
 
 REVIEW (reviewid, userid, productid, orderid, rating, title, body)
 
+![alt text](<ER DIAGRAM User - Review.png>)
+
 ## Activity Diagram
 
 An activity diagram is a behavioral diagram in Unified Modeling Language (UML) that illustrates the dynamic flow of activities, decisions, and actions within a system or process.
