@@ -76,6 +76,8 @@ Records completed purchases with user, address, cart reference, pricing breakdow
 
 ORDER (orderid, userid, addressid, cartid, order_created_at, order_status, subtotal_amount, tax_amount, shipment_amount, total_amount, shipment_location)
 
+![alt text](<ER DIAGRAM User - Order.png>)
+
 ### PAYMENT Table
 
 Handles transaction records associated with orders including payment method, status, and currency information.
