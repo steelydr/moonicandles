@@ -68,6 +68,8 @@ Manages shopping cart functionality linking users to product variants and custom
 
 CART (cartid, user_id, customization_id, product_variant_id, quantity, cart_status)
 
+![alt text](<ER DIAGRAM User - Cart.png>)
+
 ### ORDER Table
 
 Records completed purchases with user, address, cart reference, pricing breakdown, and fulfillment status.
