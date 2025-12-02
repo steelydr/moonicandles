@@ -40,7 +40,7 @@ Contains shipping and billing address information linked to users through userid
 
 ADDRESS (addressid, userid, label, line1, line2, city, state, country, postal_code)
 
-![alt text](USER-ADDRESS.png)
+![alt text](<ER DIAGRAM USER ADDRESS.png>)
 
 ### PRODUCT Table
 
