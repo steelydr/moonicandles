@@ -40,8 +40,6 @@ Contains shipping and billing address information linked to users through userid
 
 ADDRESS (addressid, userid, label, line1, line2, city, state, country, postal_code)
 
-![alt text](<ER DIAGRAM USER ADDRESS.png>)
-
 ### PRODUCT Table
 
 Maintains catalog of candle products with basic attributes like name, image, type, and wax characteristics.
@@ -53,6 +51,8 @@ PRODUCT (productid, product_name, imageurl, candle_type, wax_type, scent_type, c
 Stores specific variations of products with details on dimensions, wax amount, wick, container specifications, and inventory levels.
 
 PRODUCT_VARIANT (product_variantid, productid, product_variant_name, height_width_inches, wax_amount_oz, wick_type, container_color, wax_base_color, burn_time_hours, stock_quantity, low_stock_threshold)
+
+![alt text](<ER DIAGRAM Product - Product_Variant.png>)
 
 ### CUSTOM_DESIGN Table
 
